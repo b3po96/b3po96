@@ -1,4 +1,4 @@
-### Hi there 👋
+
 
 <!--
 **b3po96/b3po96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,15 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<a href="https://app.daily.dev/b3po96"><img src="https://api.daily.dev/devcards/v2/4rIAOYnsZeuYbfp6OW8jT.png?r=i3w&type=wide" width="652" alt="Bryce Buchanan's Dev Card"/></a>
+
+- 🤓 I specialize in:
+  - Mobile development: Android, Kotlin/KMP, Swift/SwitfUI
+- 🔭 I’m currently working on:
+  - A parking validation service and cooresponding employee portal in Next.js, TypeScript and GCP
+  - A personalized coffee shop app in Kotlin Multiplatform using Slack's Circuit architecture and SwiftUI
+- 🌱 I’m currently learning:
+  - Next.js and TypeScript
+- 📫 How to reach me:
+  - I'm not really on social media, so drop an issue on this `README` if you wanna chat!
