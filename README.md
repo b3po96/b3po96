@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 - 🤓 I specialize in:
   - Mobile development: Android, Kotlin/KMP, Swift/SwitfUI
 - 🔭 I’m currently working on:
-  - A parking validation service and cooresponding employee portal in Next.js, TypeScript and GCP
+  - A parking validation service and cooresponding employee portal in Next.js, TypeScript and Firebase
   - A personalized coffee shop app in Kotlin Multiplatform using Slack's Circuit architecture and SwiftUI
 - 🌱 I’m currently learning:
   - Next.js and TypeScript
